@@ -1,0 +1,9 @@
+node_modules/
+chromium/
+
+
+# local / generated
+temporary screenshots/
+.claude/settings.local.json
+__pycache__/
+*.pyc
